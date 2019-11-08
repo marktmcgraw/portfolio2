@@ -1,0 +1,58 @@
+.container {
+    background-image: url(../images/ripples.png);
+align-content: center;
+display: flex;
+justify-content: space-around;
+}
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav {
+    box-sizing: content-box;
+    width: 300px;
+    background-color:#4aaaa5;
+
+
+}
+.links a {
+    font-family: 'Roboto Condensed', sans-serif;
+    text-decoration: none;
+    display: inline-block;
+
+
+}
+h1 {
+font-size: 50px;
+font-family: 'Roboto Condensed', sans-serif;
+color: white;
+text-align: center;
+
+}
+h2 {
+    font-family: 'Roboto Slab', serif;
+    width: 100%;
+
+}
+.gallery {
+    padding: 15px;
+
+
+
+}
+p {
+    font-family: 'Roboto Condensed', sans-serif;
+    width: 960px;
+
+}
+.footer {
+    
+padding: 0;
+box-sizing: border-box;
+background-color: slategray;
+margin: 0;
+width: 100%;
+
+}
